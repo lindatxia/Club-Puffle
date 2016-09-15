@@ -1,0 +1,13 @@
+DESIGN 
+
+I wanted to create a small virtual world where the user could directly influence what was happening in the game — this train of thought was inspired by the user flexibility present in games like Club Penguin and Grand Theft Auto. 
+
+Since the game itself is catered toward younger kids, I designed a simple user interface that utilizes various splash screens, as well as icons to return to previous splash screens (for example, the Map icon). 
+
+Probably one of my biggest design challenges was trying to figure out how many features of a virtual world to implement — doing too many was tempting and easily unfeasible. I identified three very basic modes (Train, Fight, Rest) that felt roomy enough to simulate a small world, but also with enough depth and smaller features to make each experience thoroughly interactive. Having a end mission for the game was also important and something I prioritized when making game-level design decisions; having a virtual world just to interact with (which Club Penguin itself prioritizes) didn’t seem enough material for the user to be continuously engaged in. 
+
+As for implementation, since I had so many splash screens with lots of different features, I ended up making classes for each screen and calling upon them in the universal Game class. I made classes for each of my sprites as well, so they could be called in various splash screens with ease. Each larger class had their own run function that allowed me to control the mouse clicks (back/forth), as well as save the Puffle stats when switching between modes. 
+
+ 
+
+

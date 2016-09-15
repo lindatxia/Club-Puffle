@@ -1,0 +1,25 @@
+Updates from Deliverable #1 
+
+SPLASH SCREEN
+- Created a map visual 
+- Created clickable buttons “FIGHT” “TRAIN” “REST” that redirect you to new splash screens
+- Created a “map” icon in each mode to return back to main menu 
+
+COLLISION FUNCTIONS
+- Added collision functions for platforms & ledges
+	- “Clouds” in the Train mode, in case it’s hard to distinguish 
+	- Player can jump/fall onto the platforms 
+- Can shoot at boss, bullet collides, and boss will disappear 
+- If player collides with boss, player will die
+- Added in portal at end of Train mode, will “win” if you collide with it 
+
+DRAWINGS: 
+- Added in visuals for platforms, ledges, clouds, cages, puffles
+	- Added in cage/puffle for puffle that needs to be saved in Fight mode 
+- Implemented two “faces” for main character puffle, controlled by left/right arrow keys
+
+MISCELLANEOUS: 
+- Lots of bug fixes 
+	- Bullets bug is fixed 
+- New window bounds for puffle in rest mode 
+- Added in jump function (press spacebar) 

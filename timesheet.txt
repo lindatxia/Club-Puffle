@@ -1,0 +1,28 @@
+Timesheet
+
+Nov 21 - Brainstorm & browse through previous term projects (5 hr) 
+Nov 22 - Brainstorm & start code & download PyGame (4 hr) 
+Nov 23 - Code & try out different features of Pygame (8 hr) 
+Nov 26 - Add in different keydown, jump (2hr) 
+Nov 27 — Create splash screens (3hr) 
+Nov 28 - Experimented with adding in platforms, how to do it (7hr) 
+Nov 29 - Added in platforms, fully functional with gravity drop (8hr) 
+Nov 30 - Added in ledges, bug fixes, added in multiple moving targets 
+	 Collision if puffle hits enemy, collision if bullet hits enemy (6hr) 
+Dec 1 - Implemented splash screen connectivity, clickable map icon, 
+	made “rest” splash screen, Bounds on puffle in rest mode, 
+	“rest” mode ledges,bug fixes (5 hr) 
+Dec 2 - Bug fixes, “fight” mode ledges, big boss, save the puffle draw, (4 hr) 
+Dec 4 - More bug fixes (2hr) 
+Dec 5 - Up functionality in igloo, more splash screens (training success, training fail),
+	implemented agility, attack, & defense, click back to menu to reset all stats, 
+	click back to map to change modes, but not reset stats, igloo modification,
+	Added in Stats bar on top, Boss will increase in difficulty when nearing death, 	bug fixes (5hr) 
+Dec 6 - Increase HP every ~10 seconds by 5HP in “REST” mode, implemented different maps 
+	for each training ground & splash screens that increase agility, attack & defense 	accordingly, lots of bug fixes, added in “tokens” behind crates to advance levels, 
+	Added in start screen (8hr)
+Dec 7 - Mostly bug fixes, synced increase of characteristics to actual games (1.5 hr) 
+Dec 8 - Bug fixes, Added in training ground bosses & cycling around platform, added in additional collisions, changed maps (5hr) 
+Dec 9 - Added in music functionality, made “frostbite” images to dodge during agility mode, LOTS OF BUG FIXES, added in “tokens” in the fighting mode to act as temporary powers, bullet hit bullet destroys sprite, fixed more collision functions, added in instructions screen, inserted counters for temporary powerups, change colors for health bars, added in potions to increase HP in fight mode, (10hr)
+Dec 10 - Rejoice & record video (Ohr) 
+
